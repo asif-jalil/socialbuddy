@@ -11,7 +11,7 @@ const useCardStyles = makeStyles((theme) => ({
     boxShadow: theme.shadows[3],
   },
   container: {
-    paddingTop: theme.spacing(5),
+    paddingTop: theme.spacing(11),
     paddingBottom: theme.spacing(3),
   },
 }));

@@ -9,7 +9,7 @@ const useStyle = makeStyles((theme) => ({
   },
   containerRoot: {
     paddingBottom: theme.spacing(3),
-    paddingTop: theme.spacing(3)
+    paddingTop: theme.spacing(11)
   }
 }));
 
